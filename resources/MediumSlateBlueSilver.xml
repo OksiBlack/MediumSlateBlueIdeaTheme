@@ -7,9 +7,9 @@
         <property name="originalScheme">MediumSlateBlueSilver</property>
     </metaInfo>
     <colors>
-        <option name="FILESTATUS_ADDED" value="#2e63c6"/>
-        <option name="FILESTATUS_COPIED" value="62cc47"/>
-        <option name="FILESTATUS_DELETED" value="ed864a"/>
+        <option name="FILESTATUS_ADDED" value="#45d628"/>
+        <option name="FILESTATUS_COPIED" value="#4da138"/>
+        <option name="FILESTATUS_DELETED" value="#5e6978"/>
 
         <option name="CARET_COLOR" value="4d49de"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41"/>

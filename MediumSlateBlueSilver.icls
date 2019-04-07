@@ -1,16 +1,19 @@
 <scheme name="MediumSlateBlueSilver" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-04-07T16:16:28</property>
+    <property name="created">2019-04-07T18:15:15</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-04-07T16:18:41</property>
-    <property name="originalScheme">DarculaGrayNew</property>
+    <property name="modified">2019-04-07T18:15:27</property>
+    <property name="originalScheme">_@user_MediumSlateBlueSilver</property>
   </metaInfo>
   <colors>
     <option name="CARET_COLOR" value="4d49de" />
     <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="ERROR_HINT" value="8a9095" />
+    <option name="FILESTATUS_ADDED" value="669e58" />
+    <option name="FILESTATUS_COPIED" value="989c2b" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
     <option name="GUTTER_BACKGROUND" value="3c3f41" />
     <option name="INFORMATION_HINT" value="3c3f41" />
     <option name="LINE_NUMBERS_COLOR" value="5f65ff" />
