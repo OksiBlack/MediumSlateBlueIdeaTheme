@@ -4,30 +4,26 @@
   "author": "",
   "editorScheme": "/MediumSlateBlueSilver.xml",
   "ui": {
-      "*": {
-          "background": "#3c3f41"
-      },
+    "*": {
+      "background": "#3c3f41"
+    },
     "*": {
       "darcula.selectionForeground": "#bdd5f3",
       "darcula.selectionInactiveForeground": "#8798ae",
       "selectionActiveBackground": "#3b80fe",
       "selectionInactiveBackground": "#2b5cb8"
     },
-
     "List.selectionActiveBackground": "#3b80fe",
-    "List.selectionInactiveBackground":
-    "#2e63c6",
+    "List.selectionInactiveBackground": "#2e63c6",
     "Tree.selectionActiveBackground": "#3b80fe",
     "Tree.selectionInactiveBackground": "#2e63c6",
-    "Label.background": "#7457ff",
-      "Window.border": "4, 4, 4, 4, E6E6E6"
+    "Window.border": "4, 4, 4, 4, E6E6E6"
   },
-    "icons": {
-        "ColorPalette": {
-            "#DB5860": "#D61A26",
-          "Actions.Blue": "#5973ff",
-          "Actions.Yellow": "#989c2b"
-        }
+  "icons": {
+    "ColorPalette": {
+      "#DB5860": "#D61A26",
+      "Actions.Blue": "#5973ff",
+      "Actions.Yellow": "#989c2b"
     }
-    
+  }
 }

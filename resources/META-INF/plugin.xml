@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>OksiBlackCS</id>
     <name>Medium Slate Blue Silver Color Theme</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <vendor email="OksiBlackCS@gmail.com" url="https://github.com/OksiBlack/MediumSlateBlueIdeaTheme.git">OksiBlackCS@gmail.com</vendor>
 
     <description>Theme with silver ui elements and medium slate blue accent color in editor syntax.</description>
