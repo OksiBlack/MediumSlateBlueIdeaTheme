@@ -1,55 +1,33 @@
-<scheme name="MediumSlateBlueSilver" version="142" parent_scheme="Darcula">
+<scheme name="_@user_MediumSlateBlueSilver" version="142" parent_scheme="Darcula">
     <metaInfo>
-        <property name="created">2019-04-07T16:16:28</property>
+        <property name="created">2019-04-07T18:11:09</property>
         <property name="ide">idea</property>
         <property name="ideVersion">2019.1.0.0</property>
-        <property name="modified">2019-04-07T16:18:41</property>
+        <property name="modified">2019-04-08T11:56:12</property>
         <property name="originalScheme">MediumSlateBlueSilver</property>
     </metaInfo>
     <colors>
-        <option name="FILESTATUS_ADDED" value="#45d628"/>
-        <option name="FILESTATUS_COPIED" value="#4da138"/>
-        <option name="FILESTATUS_DELETED" value="#5e6978"/>
-
+        <option name="ADDED_LINES_COLOR" value="669e58"/>
         <option name="CARET_COLOR" value="4d49de"/>
         <option name="CONSOLE_BACKGROUND_KEY" value="3c3f41"/>
         <option name="DOCUMENTATION_COLOR" value="3c3f41"/>
         <option name="ERROR_HINT" value="8a9095"/>
+        <option name="FILESTATUS_ADDED" value="669e58"/>
+        <option name="FILESTATUS_COPIED" value="989c2b"/>
+        <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="808080"/>
+        <option name="FILESTATUS_MODIFIED" value="69b1c5"/>
+        <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="447380"/>
+        <option name="FILESTATUS_RENAMED" value="3a8484"/>
         <option name="GUTTER_BACKGROUND" value="3c3f41"/>
         <option name="INFORMATION_HINT" value="3c3f41"/>
         <option name="LINE_NUMBERS_COLOR" value="5f65ff"/>
+        <option name="MODIFIED_LINES_COLOR" value="456f7b"/>
         <option name="NOTIFICATION_BACKGROUND" value="5b6166"/>
         <option name="SELECTION_BACKGROUND" value="2f65ca"/>
         <option name="SELECTION_FOREGROUND" value="bbd3f1"/>
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="2b5fbc"/>
         <option name="VISUAL_INDENT_GUIDE" value="494920"/>
-
-
-<!--        <option name="ScrollBar.background" value="000000"/>-->
-<!--        <option name="ScrollBar.trackColor" value="000000"/>-->
-<!--        <option name="ScrollBar.thumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.thumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.hoverTrackColor" value="000000"/>-->
-<!--        <option name="ScrollBar.hoverThumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.hoverThumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Transparent.trackColor" value="E6E6E600"/>-->
-<!--        <option name="ScrollBar.Transparent.thumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.Transparent.thumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Transparent.hoverTrackColor" value="E6E6E65A"/>-->
-<!--        <option name="ScrollBar.Transparent.hoverThumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Mac.trackColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Mac.thumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.Mac.thumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Mac.hoverTrackColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.Mac.hoverThumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Mac.Transparent.trackColor" value="E6E6E65A"/>-->
-<!--        <option name="ScrollBar.Mac.Transparent.thumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="000000"/>-->
-<!--        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="E6E6E65A"/>-->
-<!--        <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="FFFFFFBE"/>-->
-<!--        <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="000000"/>-->
-
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="62651c"/>
     </colors>
     <attributes>
         <option name="BREADCRUMBS_CURRENT">
